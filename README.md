@@ -4,7 +4,7 @@
 
  -So you can clone this repo and run the notebook 
  
- -I think you can understand it very well
+ -I will sure, you can understand it very well
 <br /> 
 <br /> 
 
